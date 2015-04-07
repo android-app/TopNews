@@ -1,0 +1,7 @@
+.settings/
+.gradle/
+.DS_Store
+build/
+bin/
+gen/
+proguard/
